@@ -1,0 +1,10 @@
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\bin\Debug\Ball Project-2.exe.config
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\bin\Debug\Ball Project-2.exe
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\bin\Debug\Ball Project-2.pdb
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball Project-2.csprojAssemblyReference.cache
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball_Project_2.Form1.resources
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball_Project_2.Properties.Resources.resources
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball Project-2.csproj.GenerateResource.cache
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball Project-2.csproj.CoreCompileInputs.cache
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball Project-2.exe
+C:\Users\yulia\source\repos\Ball Project-2\Ball Project-2\obj\Debug\Ball Project-2.pdb
